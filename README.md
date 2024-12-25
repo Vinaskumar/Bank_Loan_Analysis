@@ -1,4 +1,4 @@
-# Bank_Loan_Analysis# Financial Loan Health and Trends Visualization  
+# Bank_Loan_Analysis 
 *Power BI, Python, Financial Analytics*  
 
 ## Overview  
