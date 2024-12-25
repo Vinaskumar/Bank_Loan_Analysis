@@ -1,5 +1,5 @@
 # Bank_Loan_Analysis# Financial Loan Health and Trends Visualization  
-**Subtitle:** *Power BI, Python, Financial Analytics*  
+*Power BI, Python, Financial Analytics*  
 
 ## Overview  
 This project focused on analyzing and visualizing financial loan data to uncover insights into loan performance, borrower characteristics, and monthly trends. Using advanced analytics and visualization tools, it provided actionable metrics to inform strategic decision-making.  
